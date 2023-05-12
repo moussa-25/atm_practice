@@ -4,4 +4,5 @@ public class Withdraw {
     // how much
     // $$$$
     // Money in slot
+    // updated later
 }
